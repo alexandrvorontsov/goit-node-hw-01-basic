@@ -1,0 +1,30 @@
+{
+  "name": "goit-node-hw-01-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrvorontsov/goit-node-hw-01-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrvorontsov/goit-node-hw-01-basic/issues"
+  },
+  "homepage": "https://github.com/alexandrvorontsov/goit-node-hw-01-basic#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4",
+    "uuid": "^9.0.1"
+  }
+}
