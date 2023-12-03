@@ -8,12 +8,22 @@
     "start": "node index",
     "dev": "nodemon index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrvorontsov/goit-node-hw-01-basic.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrvorontsov/goit-node-hw-01-basic/issues"
+  },
+  "homepage": "https://github.com/alexandrvorontsov/goit-node-hw-01-basic#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
   "dependencies": {
     "commander": "^11.1.0",
-    "nodemon": "^3.0.2",
     "uuid": "^9.0.1",
     "uuid.v4": "^1.0.0"
   }
